@@ -5,4 +5,4 @@ Authors: Edgar-Yaset Caicedo, Kelly Charniga, Amanecer Rueda, Ilaria Dorigatti, 
 
 This repository has two folders:
 1) Sequences: Whole-genome aligment sequences
-2)
+2) Tree-File: Original analysis is described in "1-65DEF
